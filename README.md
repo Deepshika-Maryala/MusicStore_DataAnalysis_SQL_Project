@@ -30,7 +30,7 @@ select title, first_name, last_name from employee order by levels desc limit 1;
 select count(*) as Country_most_invoices, billing_country from invoice  group by billing_country 
 order by Country_most_invoices desc;
 ```
-![Screenshot 2024-10-02 235130](https://github.com/user-attachments/assets/ebc55df9-929c-4863-9c1c-816b1ec8c0a3)
+![Screenshot 2024-10-03 170120](https://github.com/user-attachments/assets/cec10760-e580-455a-a817-5f99539f89ac)
 ![Screenshot 2024-10-02 235217](https://github.com/user-attachments/assets/9516daa0-2539-4ae8-9cef-17a6ff454c39)
 
 
@@ -130,9 +130,10 @@ SELECT * FROM popular_genre WHERE RowNo <= 1
 - Maximum total invoice amount is from Prague city also top two customers in terms of money they spend also belongs to the this city.
 - Rock is the only music genre which is popular in all country except Argentina in terms of purchase.
 ### Recommendations:
-- 
--  Organize events such as live music sessions, artist Q&A, or album release parties in the countries where maximum customers.
+- Focus on maintaining adequate inventory levels of the best-selling products and categories. Ensure high-demand items are never out of stock.
+- Organize events such as live music sessions, artist Q&A, or album release parties in the countries where maximum customers.
 ### Project Phases and Milestones:
+- Data Analysis and Visualization: April 2024- May 2024
 
 
 
