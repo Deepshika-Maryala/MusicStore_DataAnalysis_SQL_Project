@@ -132,8 +132,7 @@ SELECT * FROM popular_genre WHERE RowNo <= 1
 ### Recommendations:
 - Focus on maintaining adequate inventory levels of the best-selling products and categories. Ensure high-demand items are never out of stock.
 - Organize events such as live music sessions, artist Q&A, or album release parties in the countries where maximum customers.
-### Project Phases and Milestones:
-- Data Analysis and Visualization: April 2024- May 2024
+
 
 
 
